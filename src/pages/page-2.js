@@ -6,6 +6,7 @@ const SecondPage = () => (
     <h1>HELLO!!!</h1>
     <p>Welcome to page 2</p>
     <Link to="/">Go back to the homepage NOW!!!!</Link>
+  
   </div>
 )
 
